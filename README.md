@@ -6,11 +6,8 @@ This Analog Clock simulates the movement of clock hands to represent time in a v
 
 # Key Features:
 * Smooth, Real-Time Movement: The clock hands rotate fluidly, synchronized with the current time.
-
 * Minimalistic Design: A clean, simple, and elegant design for easy viewing.
-
 * Automatic Time Sync: The clock automatically updates based on your system’s time.
-
 * Customizable: Feel free to tweak the look or functionality to fit your needs.
 
 # Acknowledgements
